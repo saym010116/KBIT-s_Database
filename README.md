@@ -11,13 +11,13 @@ KB IT's Your Life 6th / Third-term Practice (2025.05)
 
 | 과제 _(해당 디렉토리로 이동)_             | 기본  | 심화 | 
 | ----------------------------------------- | :--:  | :--: |
-| [01 DBMS 개요, 설치, 전체 운영 실습](#) |  ✅  |  ⬜  |
-| [02 데이터베이스 모델링, MySQL 유틸리티 사용법](#) |  ✅    |  ⬜  |
-| [03 SQL 기본](#)                            |  ✅   |  ⬜  | 
-| [04 SQL 고급](#)                              |  ✅   |  ⬜  |
-| [05 테이블, 뷰](#)                        |  ✅  |  ⬜  | 
-| [06 인덱스, 사용자 관리](#)               |  ✅   |  ⬜  | 
-| [07 Java 연동 JDBC 프로그래밍](#)              |  ✅    |  ⬜  | 
+| [01 DBMS 개요, 설치, 전체 운영 실습](basic/MYSQL/sql01) |  ✅  |  ⬜  |
+| [02 데이터베이스 모델링, MySQL 유틸리티 사용법](basic/MYSQL/sql02) |  ✅    |  ⬜  |
+| [03 SQL 기본](basic/MYSQL/sql03)                            |  ✅   |  ⬜  | 
+| [04 SQL 고급](basic/MYSQL/sql04)                              |  ✅   |  ⬜  |
+| [05 테이블, 뷰](basic/MYSQL/sql05)                        |  ✅  |  ⬜  | 
+| [06 인덱스, 사용자 관리](basic/MYSQL/sql06)               |  ✅   |  ⬜  | 
+| [07 Java 연동 JDBC 프로그래밍](basic/MYSQL/sql07)              |  ✅    |  ⬜  | 
 | [08 Java 연동 JDBC 프로그래밍-Travel](#)   |  ⬜  |  ⬜  |
 
 ---
@@ -25,7 +25,7 @@ KB IT's Your Life 6th / Third-term Practice (2025.05)
 
 | 과제 _(해당 디렉토리로 이동)_             | 기본  | 심화 | 
 | ----------------------------------------- | :--:  | :--: |
-| [01 MongoDB](#) |  ✅  |  ⬜  |
-| [02 몽고DB Java연동](#) |  ✅    |  ⬜  |
+| [01 MongoDB](basic/MongoDB/sql01) |  ✅  |  ⬜  |
+| [02 몽고DB Java연동](basic/MongoDB/sql02/sql02) |  ✅    |  ⬜  |
 
 ---
