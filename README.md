@@ -18,7 +18,7 @@ KB IT's Your Life 6th / Third-term Practice (2025.05)
 | [05 테이블, 뷰](#)                        |  ✅  |  ⬜  | 
 | [06 인덱스, 사용자 관리](#)               |  ✅   |  ⬜  | 
 | [07 Java 연동 JDBC 프로그래밍](#)              |  ✅    |  ⬜  | 
-| [08 Java 연동 JDBC 프로그래밍-Travel](#)   |  ✅  |  ⬜  |
+| [08 Java 연동 JDBC 프로그래밍-Travel](#)   |  ⬜  |  ⬜  |
 
 ---
 ## 02 NoSQL 기반 MongoDB
